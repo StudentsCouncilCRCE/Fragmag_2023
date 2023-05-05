@@ -362,7 +362,7 @@ text-shadow:  5px 8px 5px #2b1055;
     padding: 0px 0px;
   }
   .book-grid ul{
-    gap: 13%;
+    gap: 18%;
   }
   .book-grid ul img{
     height: 100px;
@@ -392,8 +392,8 @@ text-shadow:  5px 8px 5px #2b1055;
   }
   .flex{
     flex-direction: column-reverse;
-    
-    margin-left: 55px;
+    width: 83%;
+    margin-left: 70px;
   }
   .side2{
     width: 40%;
