@@ -413,3 +413,8 @@ text-shadow:  5px 8px 5px #2b1055;
     margin-left: 6px;
   }
   }
+
+  header img{
+    /* padding-top:5px; */
+    height: 30px;
+  }
