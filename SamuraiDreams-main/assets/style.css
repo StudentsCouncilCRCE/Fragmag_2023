@@ -374,7 +374,7 @@ text-shadow:  5px 8px 5px #2b1055;
   }
   
   .bookshelf{
-    width: 100%;
+    width: 90%;
   }
   .small{
     font-size: 9px;
@@ -392,7 +392,7 @@ text-shadow:  5px 8px 5px #2b1055;
   }
   .flex{
     flex-direction: column-reverse;
-    width: 80%;
+    
     margin-left: 55px;
   }
   .side2{
@@ -400,7 +400,7 @@ text-shadow:  5px 8px 5px #2b1055;
   }
   .flex img{
     height: 300px;
-    margin-left: 4px;
+    margin-left: 30px;
   }
   .side1{
     width: 80%;
